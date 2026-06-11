@@ -1,7 +1,49 @@
-Old Tom|The brewery rats have started worshipping a barrel.
+<Marta, a Dockworker> Ever since John Cum died, the wheat's come in thin and pale. John Rump's got the land now and I'll tell you, that man couldn't grow mold on bread.
 
-Dockhand Jeb|King Ragnar hasn't paid his gambling debts.
+<Old Salty> Rollo's got a new woman. Court-ordered. Ha! First time in his life he can't wriggle out of somethin'.
 
-Molly the Barmaid|Someone swears they saw a ghost ship off Blackreef.
+<Pip, a Street Urchin> My mum says don't go near the library basement. Says there's somethin' down there that eats the dark and leaves the light worse off.
 
-Captain Briggs|The pirates are getting soft these days.
+<Daisy, a Barmaid> Three Aleforge Bonds I bought. Three. Seamus Bonehardy is mayor now and I swear on my mother's grave that man has not done a single solitary thing since the election.
+
+<Friar Leo> The Church does not officially recognize the Veilwalker shrine beneath the district. I am simply... its caretaker. That is all I will say.
+
+<Gregor Ashford> *slurring* The River Coffin... you think they put him there 'cause they hated him? No no no. They put him there 'cause they were afraid of what came next.
+
+<Tom, a Farmhand> Rump's fields smell wrong this season. Like copper and old rain. John Cum's fields never smelled like that, not once in twenty years.
+
+<Glub Tuppus Wepple> I am developing a new brew. In secret. And when it's ready, I will be leaving the Grog Galley and nobody — NOBODY — will lay a hand on this batch.
+
+<Aggie, a Fishwife> My husband swapped his good nets for a Veilwalker blessing three seasons back. Swore he'd plant something by the creek in return. He forgot. Creek flooded. Draw your own conclusions.
+
+<Rollo> He just... left. Buke looked me dead in the eyes, chugged his beer, and walked out. I don't want to talk about it. *lights a Newport*
+
+<Harwick, a Merchant> The barrel trade used to go through Roto no questions asked. Now I'm hearing Aleforge is making their own? Who authorized that? Was that the Kings? Of course it was the Kings.
+
+<Sister Brynn, a Providence Apostle> We haven't slept in eleven days. The Cardinal says the tonic sustains us. And it does. It does. I just sometimes wonder what I dreamed about before all this.
+
+<Cheeks, a Former Stable Boy> I'm in Providence now. New name, new life. Nobody followed me. I think. I'm fairly sure nobody followed me.
+
+<An Anonymous Shanty Town Resident> You wanna know how Shanty Town got started? One broken captain at a time, friend. One broken captain at a time. Same way it'll end, probably.
+
+<Barney, a Roto Merchant> Business is good. Business is always good. I don't ask where the factory artifacts come from. That's not my job. My job is the transaction.
+
+<Ignatius De Montfort> The Tavern Beast, the skull in the forest, the ribcage in the ravine — they are not coincidence. I have a theory. I am keeping it to myself this time.
+
+<Elspeth, an Aleforge Housewife> My boy saw something in the Brandywine Brush last Veilfrost. Translucent, he said. Like a person with a veil over them. He won't go near the forest now. Honestly, I think that's sensible.
+
+<John Rump> The embezzlement was for medicinal purposes. The bootleg tonic is medicinal. Seamus agreed. It's legal now. Everything is completely fine.
+
+<Winnie, a Tavern Regular> I heard Seamus Bonehardy has been mayor for months and his entire legislative agenda is that he shows up most days. The people love him for it, somehow.
+
+<Brother Aldus, a Providence Sexton> The tithes are fifty percent of earnings. Half. Yes. That is correct. The Cardinal thanks you for your devotion. Please stop asking where it goes.
+
+<Greta, a Providence Merchant> A Roto sailor told me the tonic recipe is worth more than the whole lake port. I laughed. Then I looked at the Cardinal's tower and I stopped laughing.
+
+<Sven, a Shanty Town Rigger> Crashed my ship into the cliffs same as everyone else. Swore loyalty to the Shoals. I miss sailing, sure. But I sleep soundly on the bones of that choice.
+
+<Susan Plinket> I have nothing to say. I am currently in a relationship that I did not choose and I have nothing further to add at this time.
+
+<A Nervous Hoegaarden Scholar> There's a section of the catacombs below the lower stacks that we've been told not to catalog. Management says it's structural concerns. It is not structural concerns.
+
+<Cumsock, a Goat> *chewing hay*
