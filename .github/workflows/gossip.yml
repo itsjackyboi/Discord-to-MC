@@ -1,15 +1,12 @@
 name: Pintland Gossip
-
 on:
   schedule:
-    - cron: "*/15 * * * *"  # every 15 minutes
-
-  workflow_dispatch:  # allows manual testing
+    - cron: "*/15 * * * *"
+  workflow_dispatch:
 
 jobs:
   gossip:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
@@ -19,11 +16,7 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Install dependencies
-        run: pip install discord.py
-
       - name: Run Gossip Bot
         env:
-          DISCORD_TOKEN: ${{ secrets.DISCORD_TOKEN }}
-          CHANNEL_ID: ${{ secrets.CHANNEL_ID }}
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
         run: python bot.py
