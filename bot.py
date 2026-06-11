@@ -10,7 +10,8 @@ with open("rumors.txt", "r", encoding="utf-8") as f:
     rumors = [line.strip() for line in f if "|" in line]
 
 speaker, text = random.choice(rumors).split("|", 1)
-message = f"<{speaker}> {text}"
+message = f"<{speaker}> {text}\n"
+await channel.send(message)
 
 class GossipClient(discord.Client):
     async def on_ready(self):
