@@ -5,11 +5,12 @@ import os
 WEBHOOK_URL = os.environ["DISCORD_WEBHOOK_URL"]
 
 with open("rumors.txt", "r", encoding="utf-8") as f:
-    rumors = [line.strip() for line in f if "|" in line]
+    raw = f.read()
 
-speaker, text = random.choice(rumors).split("|", 1)
+entries = [block.strip() for block in raw.split("\n\n") if "|" in block]
+speaker, text = random.choice(entries).split("|", 1)
 
 requests.post(WEBHOOK_URL, json={
-    "content": text,
-    "username": speaker
+    "content": text.strip(),
+    "username": speaker.strip()
 })
