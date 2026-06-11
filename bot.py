@@ -11,11 +11,9 @@ with open("rumors.txt", "r", encoding="utf-8") as f:
 
 speaker, text = random.choice(rumors).split("|", 1)
 message = f"<{speaker}> {text}\n"
-await channel.send(message)
 
 class GossipClient(discord.Client):
     async def on_ready(self):
-        # 🔥 IMPORTANT FIX: fetch channel instead of cache lookup
         channel = await self.fetch_channel(CHANNEL_ID)
 
         await channel.send(message)
