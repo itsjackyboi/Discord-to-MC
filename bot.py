@@ -9,4 +9,7 @@ with open("rumors.txt", "r", encoding="utf-8") as f:
 
 speaker, text = random.choice(rumors).split("|", 1)
 
-requests.post(WEBHOOK_URL, json={"content": f"<{speaker}> {text}"})
+requests.post(WEBHOOK_URL, json={
+    "content": text,
+    "username": speaker
+})
