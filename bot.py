@@ -20,7 +20,8 @@ class GossipClient(discord.Client):
         channel = self.get_channel(CHANNEL_ID)
 
         if channel:
-            await channel.send(message)  # IMPORTANT: plain text only
+            msg = await channel.send("...")
+            await msg.edit(content=message)
 
         await self.close()
 
