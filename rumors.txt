@@ -465,3 +465,403 @@ Tammy the Tavern Wench: When no one is looking, I like to skinny dip in the Bloc
 <Wilkin, a Miller of West Pint> Nobody maps West Pint and now I know the reason. My uncle went ten days west with a good compass and came back in four with the same compass reading the same direction the entire way. He won't discuss it. He won't go outdoors much either.
 
 <Old Salty> Ye want the truth about the Six? They forgot a good man in a cage, they beat an old brewer bloody and robbed him blind, they sold this town into debt, and half of 'em prance round this island chasin' the wrong sort o' booty like a pack o' powdered fairies. And they also killed two things what would've eaten the whole shitin' world and never once asked to be thanked for it. Both ledgers is real. I keep the both of 'em. Now buy me a fuckin' grog.
+
+<Barley Tolliver, an Ale Fountain Warden> Somebody has to keep the Brewmaster's spring from clogging, and that somebody is me. Two hundred stoppers to scrub before Brewmasters Day and the Six will turn up for the first pour without once asking who cleaned the spigot.
+
+<Hamish, a Chronicle Typesetter> Editor says every King reads page one and none of them read past page three. So page one is for flattery, page three is for news, and the bad stuff goes on page nine, where only the dentist and I ever look.
+
+<Constable Orla Dunmore, an ASDU Officer> The Special Drinkers Unit exists so a man can drink wherever and whenever he pleases. Last Keg we logged forty-one complaints of men being prevented from drinking. By us. Because they'd passed out. Policy is policy.
+
+<Aldous Pennywhistle, a Militia Recruit> The Aleforge Militia drills Brewsdays and Grogsnaps. One pike each, one cannon between us, and a sergeant who insists it's "ceremonial." If MAMA ever come back we plan to be extremely sincere at them.
+
+<Dessa, a Brewers Lane Midwife> On Brewers Lane a newborn's first taste is a drop of the family's house ale on the lip. Providence babies get a drop of tonic instead. Jagerbauhm was one of them. Think about that next time he saves the town.
+
+<Hilde, a Hall of Ale Cook> The Pennywhistles hosted the keg tap last month and unveiled a new brew. It was soup. They called it a pottage stout. The Six drank three pints each and swore it was the best thing they'd ever had. The Six would drink anything. I mean that as a compliment and as an accusation.
+
+<Tilly Marsh, a Fifteen-Year-Old Brewer> I present my first brew at Beckoning the New Brews and Jagerbauhm says he'll come. He's the only King who's ever asked my name. If the brew's rubbish I'll die. If he's rude about it I'll die and then haunt him.
+
+<Gunther, a Gilded Tankard Doorman> Every Liquor King's name is etched in the Tankard wall. Cleaning day I dust Beef's. One word, no dates, no deeds. In forty years nobody's asked me about Beef. I like to think he was a good lad.
+
+<Pascoe, a Sackbeard Memorial Well Keeper> Folk throw coin in the Well for luck. Each Hangover I fish it out and give half to the Restoration Association for the Cloister roof. The other half goes where it's gone since Frenic Hallis's day: ale. Sackbeard would've understood.
+
+<Mordecai, a Clerk at Old Aleforge Municipal> Three honorary offices left and each has more portraits than staff. The Color Guard has eleven members, nine of them Dillydallys. We're protected by the Historic Act. We are not protected from boredom.
+
+<Tanka Jahari, a Krappenschitz Housemaid> They call us snobs because we're sober. We're snobs because we're rich. The sobriety is a side effect of being able to afford cooking sherry and not drink it.
+
+<Regina, a Boner Bar Bouncer> We've had to put it in writing now: staff do not skinny-dip off the Aleforge Import. The sign went up Brewsday. Tammy's already taken it as a challenge.
+
+<Billy Ball Buster> Best and only Inn in Aleforge, and I'll thank you not to mention my brother's bar. It is not under my inn. It is under my inn's foundations. Which is a completely different thing.
+
+<Quill, an Apothecary's Boy> Lady Edgermire's prices are always strange but she has never once cheated anybody. A man paid her with his best memory of his mother and left sobbing with joy. I'd have taken the gold.
+
+<Edda, a Blacksmith's Apprentice> I'm paid for by the Thomas Thatcher Scholarship. Drake's idea, Thatcher's name. Nobody's cancelled it since they banished him. The Six have botched plenty, but they've had the sense to leave that one alone.
+
+<Osric, a Stonemason> Buke promised an Aleforge Memorial Museum if he won mayor. He lost, and the foundation stones turned up anyway, paid for out of his own purse. Man keeps his word even when nobody's making him.
+
+<Rue, a Tavern Poet> JP's campaign speech ended "We will not brew without a fight." We set it to a drinking tune. It's a good tune. He didn't win, and you still hear it every night at last orders, which is more than Seamus can say.
+
+<Hob, a Farmhand> Guinnie lost the mayoral race but half the farms still hold his Grog Guzzle Gala every second week, twenty-five percent off. Nobody's asked who's covering the twenty-five percent. Nobody wants to know.
+
+<Kettil, a Guild Alchemist> Jack Anqoak said in the debate he'd gather the best scientists in the Isles to craft an unbelievable new brew. Four of us got letters. All four were identical, signed Goldcoral. Not one mentioned wages.
+
+<Piers, a Roto Cooper's Broker> The Aleforge barrel scheme was brilliant and I hate saying so. Wood in from the mainland at a song, barrels out at a tenth of the old price. Mayor Bonehardy may be a layabout but whoever wrote that bill understood margins. If it was him, I'll eat my ledger.
+
+<Seren, a Carpenter's Daughter> Jagerbauhm drew plans for the Aleforge International Academy for Aspiring Drinkers on a napkin in the Tankard and the napkin's framed over the bar. Eighty students, one dormitory, no classrooms, because "the classroom is the bar." Dad says he's right.
+
+<Wick, a Brewer's Apprentice> Jagerbauhm shook hands with the Cardinal on a Stormtide Ale. Aleforge malt, Providence brewing, no tonic. Providence says we backed out, we say they did. Meanwhile the malt sits in a warehouse getting older and nobody's drinking anything.
+
+<Sister Odette, a Providence Cantor> Every three hours the Cardinal's bell rings out of Roto red-earth mineral and we sing beneath it. The cantor before me said the bell has a second note under the first that only sounds when someone in the city is lying. I've heard it four times this week and I'm trying not to look at anyone.
+
+<Lorcan, a Vanity Street Tailor> Fin Dickstien delivers my orders faster than any grown messenger, for a hot chocolate a week. He's undercutting the guild. I've asked his father if I can hire the boy full time. His father says he'll sue. His father has been unable to catch him to serve the papers.
+
+<Captain Crawdad> Six weeks in the Southern Blocean in a submarine named after a fishing proverb. The water's warm, the fish are wrong, and something large taps the hull in perfect threes. I'm a detective. I've reached a conclusion. It's polite.
+
+<Brother Tuck, a Providence Almoner> The old Cardinal's Whiskey Runners smuggled tonic out to Aleforge and, as an afterthought, brought a giant baby back in a wine barrel. Hunk the Monk is the greatest customs failure in Providence history and our best investment.
+
+<Isolde, an Owe Block Pilgrim> Baba Paku wants to be Owe Block's first Saint. The Church says first he must give up the arms trade. He says the arms trade is evangelism. Talks are ongoing.
+
+<Jory, a Shanty Barstool Carver> The barstool named for Saint No-Snooze still sits at the end of the Tavern bar. Each year Providence sends a man to ask for the four pints the Order's owed. We pour them. He drinks them. He cries. Next year they send another.
+
+<Wynne, a Kalifart's Scribe> My master writes tonic variations in fermented ink. He's on version four thousand four hundred eleven. Each is the same. He insists they're different. He says the last one raises the dead. I say the last one will be the one that makes his scribe quit.
+
+<Verger Anselm> Providas is a day of silent prayer for the Monk's exile. By the sixth hour half the city is praying for something other than the Monk. Mostly that the Aleforge Kings never come to visit.
+
+<Brother Fenn, a Circ> A Circ's face is flushed from working the vats all day. People think we're drunk. We're hot. Also a little drunk.
+
+<Garrick, a Providence Clerk of Citizenship> We granted Seamus Bonehardy citizenship after he sold the Owe Block relics to Hoegaarden. His file lists "mayor of Aleforge" under occupation and "tonic" under dependents. I've asked the Cardinal to clarify. No reply.
+
+<Zinnia, a Crimson Cutter> We still wear red in the Owe and Krag still won't say "Circus" out loud. The Kings came in as outsiders and left having turned our whole block into a game. We still fight the war every full moon in their honor. Annoying. Also weirdly sweet.
+
+<Roan, a Mickey's Pipe Club Regular> Pilsner once hired a hit on Seamus through Mickey's after dying in the mines. Mickey's refunded the deposit by night two, when the hitman and the target ended up drunk at the same bar. Good for business or bad for it, depending how you count.
+
+<Yara, a Chicken Jockey Champion> Chicken Jockey's a local game about shooting white animals. Guinnie "held his own" in the final. That means he came third of three. I have the trophy. He asked to borrow it. I said no. He took it anyway.
+
+<Dunstan, an Owe Block Mine Foreman> Sexton Gobbler's gone and the tithe's a quarter now, but there's still a man with a very polite accent who comes by Mooringday for half of what we dig. Nobody knows who he works for. Nobody's asked. He's very polite.
+
+<Nolan, a Pepper Trader> The Black Pepper Dividend paid its first dividend to Buke. The Exchange has asked him four times to take a board seat. He replies with a drawing of a fish. The board loves it. They've framed three.
+
+<Bryn, a Hoegaarden Archivist> The Sad Sermon, Old Staff, and Ancient Pot sit in our relic room labeled "preserved from gentrification" in Josephus's handwriting. Nobody knows what they do. The Pot rattles on Hangover. We've stopped asking it questions.
+
+<Pru, a Ferrywoman> Babu Packo's island sits off Providence's edge. He hands out boats, says "wah gwaan," and the customs man swears it's the only island where the tide goes out and the dock stays dry.
+
+<Pope> *cough* Twelve cigars a day and the doctors say I'm dying. So I bought a thirteenth. A lad asked today if the Crimson Cutters are hiring. I told him the pension plan's terrible. Nobody leaves the Cutters, except me. And I'm *cough* blowin' smoke about that, too.
+
+<Beatrix, a Hoegaarden Shelver> We shelve at nine and close at dusk. We don't ask what shelf the books sit on at night. Josephus used to count them and now nobody does, and I swear they've begun arranging themselves in an order I almost can read.
+
+<Colm, a Hoegaarden Intern> They're asking for interns again. I applied because the stipend's good and the hours are short, and the only warning I got was "don't go down." I intend to heed it for exactly as long as it takes to get curious.
+
+<Una Brightwater, a Neighbor of the late Malchus> Malchus knew more than he was comfortable knowing. He used to leave a bread roll on my windowsill every morning. One day it was a note instead: "Don't read anything that's been unmade." The Guard found him by evening.
+
+<Gertie, a Hoegaarden Cellar-hand> The Kings drank the library's wine cellar dry in an afternoon. A vintage from Cycle 3. Whoever stocked it hasn't been seen in centuries. I'm owed wages from a dead man and I fully intend to collect.
+
+<Finnian, a Scholar of the Southern Desert> Aldric Pen wrote that the Third Dynasty made no attempt to record what happened to the desert, and called the silence its own kind of answer. I wrote to the Dynasty's heirs asking what they'd like to say. Seven replied. All seven said "nothing." In the same handwriting.
+
+<Alaric, a Tome-Hunter> One of six Tome Monuments is found. I've found a second. I've been ill ever since. Nobody's asked me where. I would very much like someone to ask.
+
+<Jed, a Hoegaarden Janitor> The pit under the library is fenced now and the only sign is from the Aleforge Special Drinkers Unit: "NO DRINKING BEYOND THIS POINT." First sign they've ever posted. Everyone agrees it's the scariest one in Pintland.
+
+<Nev, an Embassy Aide> The Hoegaarden Library Embassy sheltered the Kings for twelve days while Gobbler's men were hunting them. They never washed a cup. We've since restocked. We've also since raised the Embassy's fees.
+
+<Fiadh, a Fenwick Edge Herbalist> A Veilwalker healed my father of a sickness no healer had a name for and asked one promise: never raise my hand to a tree in anger. Eleven years I've kept it. I have a very sore shin.
+
+<Elowen, a Woodcutter's Widow> My mother said female Walkers are barred from being Elders. She said that's not the same as being powerless. Ask any Walker how their meetings end.
+
+<Mags, a Night Farmer> Lights in the Cloister windows again, blue-white. The Fayte Druids chant in time with the tide. I timed it. The tide's a few breaths late.
+
+<Leif, a Fenwick Chronicler> Godrin Moor was the last King to see Fenwick at its height. The Walkers have been leaving since, a hut a decade. At this rate it'll be moss and a signpost by the time Jagerbauhm's grandchildren are old. I wish someone in the castle cared.
+
+<Thea, a Tree Planter> Last Night of the Earthen Veil I planted a sapling by the Shallows and said a prayer. By morning it had a veil of mist and a small footprint at its base. I haven't told my husband.
+
+<Buck Setts, a Thorny Thicket Bartender> George Big Bush pays us in tips and a promise. The promise is tips.
+
+<Keg Minster, a Thorny Thicket Bartender> Rumor says the Thicket's cellar has seven bars. Twelve years I've worked here and I've found four. I would like the other three.
+
+<Rhys, a Brush Hunter> A farmer lives deep in the Brandywine Brush, disgruntled. Ask him why and he says "I wanted wheat." Ask again and he says "I wanted John Cum's wheat." Ask a third time and he sets the dogs on you.
+
+<Ulla, a Books of Captains Scribe> A name enters the Books of Captains once you survive the First Pour. Pilsner's is in there. In pencil. He slept through the initiation and the Council couldn't decide, so we left room.
+
+<Vik, a Tide Caller> The ocean rewards devotion and punishes arrogance. Last Stormtide a King, I won't say which, stood on Blodello Bridge, pissed into the bay and declared himself the crown. The sea's been unusually polite since. That's worse.
+
+<Kit, a Coral-eyed Diver> The trench kissed me and I gave it a tooth. Fair trade. On clear nights from the cliff I can see a drowned galleon in the bay and I'm told it isn't there.
+
+<Dax, a Reformed Ashen Oath Man> I left after the Night of the False Sun. They told us the one we took was a sinner. She was a barmaid who'd refused a captain a discount. That's all it ever was.
+
+<Cass, a Windsunk Council Page> The Council says a crew must number more than one. At the last session a captain declared his crew was "me and my parrot." The Council allowed it. The parrot has since voted three times.
+
+<Lug, a Shanty Cartographer> There's an old tale of a Mapmaker who vanished. His maps went to six places. I found a corner of one in the lining of a coat I bought in Roto and I'm too frightened to check the rest of the coat.
+
+<Odette Marsh, a Spiritweed Gatherer> Spiritweed from Fenwick is the only plant that whispers when you pull it. The Pour Eternal calls for it. The Veilwalkers haven't sold any in sixty years. Someone's been buying. Someone with a very deep purse.
+
+<Ivar, a Dead Man Hallows Wrecker> The Dread Harrow came through a portal and left. Where does a ghost ship go after? I salvage in the Hallows and I've found three wrecks sunk by something that looked like a ship but wasn't there.
+
+<Bram, a Pawnbroker> A man offered me Sackbeard's Cutlass last Beastwatch. Lost in a scrap between two Kings, I know the story. I said it can't be. He said that's what the last three buyers said. I bought it anyway. It's a cutlass.
+
+<Tobiah, a Tavern Bouncer> At Sackbeard's on Hoppy Holidays we throw you in if you look sober. I'm a foot taller than Jameson Pilsner and I've never once thrown him. I've never once needed to.
+
+<Wat, a Shanty Baker> Beer Day: you buy a beer for your fellow man provided he buys yours. Pilsner's been buying all day for men who've never bought him one. He's two hundred pints down and says he's never felt richer. Lovely man. Terrible at the one rule.
+
+<Garnet, a Roto Insurance Broker> We insure everything in Roto except the Six. A clerk once offered Jack Anqoak a policy on the Bastard's Requiem; he read the fine print aloud in the Tankard and the room fell silent. It said "act of Jack." Every Roto clause has one now.
+
+<Mara, a Roto Underground Marketeer> Nothing's illegal in Roto, but some things sell only after dark. Last week a masked buyer asked for a vial of Cloister Beast blood. We hadn't any. We sold him something labelled the same. He paid triple.
+
+<Orrin, a Cloudrunner Deckhand> Two Cloudrunners left: the Mercury, and one we don't name aloud. The Lords say the man who built her still works the rigging. He'd be six hundred. He doesn't look it.
+
+<Kofi, a Roto Dockside Guard> Security is new in Roto. We still don't know who to arrest. Last week they brought me a man for "violating the taboo." I asked which. Nobody knew. We let him go and he bought us lunch.
+
+<Hiro, a Roto Antiques Dealer> Xi Jin Ping's Lucky Arrow is in the possession of Jack Anqoak. They say it never misses what you most fear. I'd like to examine it. I'd like to be nowhere near it when it's fired.
+
+<Sora, a Roto Spice Tallyman> I've never met a Spirit Realm investor. Their money comes smelling of wet incense and their questions come in folded paper boats. Three boats now, asking what Jagerbauhm's weaknesses are. I wrote nothing back. A fourth boat arrived.
+
+<Brannoch, an Ale Bean Smuggler> Ale beans taste like regret and lemon. The Bellows folk adore them. They come in sacks marked "gifts" and the Guards stamp them because the Guards' superior is paid in IPAs. I've tasted one. I'm not the same man.
+
+<Corky, a Bazzar Fishmonger's Boy> A Bitterman came to the Bazzar in dark amber robes and asked in Blowish for a jar of Aleforge's worst ale. We gave him a jar of water from John Rump's well. He wept with joy.
+
+<Joss, a Tavern Crier> Pilsner heard the Bellows Nation sent a barrel of IPA into Aleforge and declared a boycott. Of one barrel. Then he bought thirty more to burn in public. The smell had the Militia out.
+
+<Perrin, a Lighthouse Watchman> Steam gliders over the Basin at dusk. No wings flap; they hiss. Sergeant Hark logged them. I logged them. The log's gone silent. One of us is lying.
+
+<Kenna, a Roto Linguist> The Pale is the highest rank in the Bellows Nation and nobody outside knows the face. The Blowish word for the Pale means "the one who tastes last." I'd translate it as "the one who dies first." They say I'm correct.
+
+<Alwyn, a Blacksmith> I buy a pouch of Wolendi east wind every Mooringday for the bellows. Last week the pouch was heavy. It had something in it that wasn't wind. I'm not saying it was a sigh. I'm saying it sounded like one.
+
+<Gale Derecho> My visions grow clearer. A centaur told me, over tea, that the wind will turn at Veilfrost. Guster says centaurs don't take tea. The centaur says Guster doesn't take advice.
+
+<Constable Jökulsson> The Six killed the Whispering Dark I'd have killed. They drank my stout and left no gratitude. I keep a seat for them at the Bastion's long table. It's the one next to the draft.
+
+<Aldrik Stoutbeard, a Bjor Hjarta Brewer> Our stout smells strongly of stout. Outsiders think that's the joke. It isn't. It's the test. A man who smells of anything else has something to hide.
+
+<Brokk, a Bjor Hjarta Catacomb Warden> Kottrblod the Soulcarver, Nottulf the Prince of Sin, and Yoslef the Mutilator lie in our catacombs. We only remember the bad ones. An outsider claims the good ones are buried under the stout kegs. Not true. The good ones are the stout kegs.
+
+<Guisepee, Vintner of the Taverna> A traveler from the Isles said Thatcher and Cum are dead. I said nonsense, those were the only decent men in your land. He said the Six forgot Thatcher in a cage. I closed the shutters and I'll not open them to a Pintlander until someone tells me it's a lie.
+
+<Beppe, a Taverna Cellar Hand> Six drunk men carried our wine to Providence and delivered a third of it. Guisepee's grandfather prayed ten years for forgiveness. The Six got a plaque. We got a smaller cellar.
+
+<Sully, a Poopwata Basin Barkeep> At Poopwata Basin the tavern's half underwater and you breathe the sea like air. The Six built it before they were Kings. Best room in Pintland. All it's missing is a customer who isn't on a quest.
+
+<Maeve, a Tapestry Weaver> I'm weaving the Long Thirst for the Hall of Ale. Fifty-two years without a King and the mayors in the border are all "unremarkable." Cromwell's panel has more brothels than flags.
+
+<Barnaby Hennessany, a Mediator> My ancestor Roderick made peace between the farmers clan and the brewers guild. Both sides still claim they won. The only peace left is that they drink in the same pub every Tidecall and never speak.
+
+<Wilhelmina Assbell, a Descendant> I'm descended from Sean Assbell. Yes. I've heard them all. He opened the Trials to visitors and I make my living off the tourists, so thank you.
+
+<Leofric, a Castle Footman> Ingram the Hermit never left the castle in forty years. I've been here twenty and don't expect to. I believe what he believed: it's warm in here.
+
+<Corwin, a Temperance Historian> Ulthar Goldbrew never drank, and still won the Drunken Trials. The records say the ale "rejected him" and went into the next man's cup. I'm not claiming the Trials favor the sober. I'm claiming nobody's asked.
+
+<Cleo, a Drunk Historian> Brannock the Drunk won the Trials by accident while looking for his house. They found him asleep on the town hall step. He's the patron saint of every man who ever won by turning up. Jagerbauhm has his face stitched on his boot.
+
+<Briony, an Oracle's Apprentice> Isadora Beerchelli foretold the Long Thirst and the Age of Six Kings. They say she foretold the end of it too. Jack Anqoak calls himself the Oracle of Aleforge now. I asked him what Isadora wrote. He said "Not my department."
+
+<Hilda, a Soldier's Granddaughter> Plungos of West Pint defeated the unknown fleet and gave up the crown the same year. Most generous King there ever was. Meanwhile the Six haven't given up so much as a seat at the bar.
+
+<Morwen, a Street Preacher> Hilgaard the Wildman was homeless when he won. The prohibitionists killed him. Every generation they die out and a new lot comes: the MAA, then MAMA. I've been warned about a "third M."
+
+<Aelfric, a Providence-trained Scholar> Scipium Ofkra, educated in Providence, ended the Trials and began the Long Thirst. Providence says it's not their fault. Aleforge says it's all their fault. Both are partly right. Both are drunk by evening.
+
+<Pearl, a Dockside Poet> Sackbeard's first mate was loyal as a shadow, the tale says, until the day he wasn't. I've set it to rhyme. Every verse ends on the same word. It's "Drake."
+
+<Yves, a Shanty Blacksmith> Pilsner wears Sackbeard's armor, Jagerbauhm carries the dagger, and nobody has the cutlass because it's lost. I rebuilt the plates twice and the armor didn't need it. I'd swear it's repairing itself.
+
+<Tuck, a Stable Boy> Guinnie asked me for directions to the Tankard from the Tankard. I told him he's in it. He said "good, then I'm early."
+
+<Edric, a Weaponsmith> Guinnie keeps the spear Necrosis behind the bar at the Tankard in a sock. The sock hums now. I'd get a new sock.
+
+<Lachlan, a Quay Fisherman> Buke came to the quay at dawn and out-fished my whole crew with a bent nail and a string. He gave us the catch, said good morning, and slept on a pile of nets. I'd follow that man into a storm. I have.
+
+<Lloyd, a Chronicle Printer> Buke cut out Maximilian's tongue so he'd have to watch him drink a pint, then took his head. We printed it as "He was thirsty." Not a word was changed.
+
+<Percival, a Goldcoral Clerk> Goldcoral's Providence office has no windows, one desk, and a framed copper scarf we're told is a "heritage piece." It's whispered to be cursed to pickpocket whoever wears it. Nobody's touched it. I dust around it.
+
+<Aldwyn, a Gilded Tankard Barfly> Anqoak lost his soul in the library and I've watched him try to buy it back. He offered a Roto merchant three hundred gold for a soul-shaped jar. The merchant sold him a jam jar. He's been staring at it ever since.
+
+<Siobhan, a Gyntonick Traveler> I'm from Gyntonick. Rum Anqoak still drinks gin in the same tavern and still locks the door every night. He asks every traveler if they've seen his brother. When I said yes, he asked if Jack was sorry. I lied.
+
+<Linnet, an Aviary Keeper> Max Trans is a bird, and the only creature in Pintland who's heard Pilsner's whole plan out. I'm told it nodded.
+
+<Dolores, a Bazzar Apothecary> On Day 3 of the Stewards, Jameson Pilsner bought every jar of Bluechew and Super Lube in the Bazzar. I didn't ask. The Chronicle did. They printed "Pilsner Stocks Up."
+
+<Quickety Cricket, a Postman> Seamus Bonehardy writes to his mother and drops the letters in a different mailbox every Mooringday. Prejac and I collect them. We don't deliver them. We don't open them. We keep them in a box because we don't know what else to do. The box is nearly full.
+
+<Orson, a Roto Bounty Broker> The bounty on Seamus Bonehardy: every doubloon in a certain cave. I've seen the contract; the signature's a smear and it isn't ink. Open eleven years, uncollected. The mayor's never where he's supposed to be. Hard to hit a target that skips meetings.
+
+<Marlowe, a Stablemaster> PegButt was the most trusted horse that ever lived, a father to us all, and Jagerbauhm murdered him. Nobody's told Junior. PegButt Jr. has been looking at Jagerbauhm like that ever since. I'd sleep with a hoof under my pillow in his place.
+
+<Fergus, a Former MAMA Sympathizer> Jagerbauhm was the only King to vote against MAMA's amnesty. He was right and it killed us. I'd like him to say sorry. I'd like to say it back.
+
+<Edgar, a Stone Carver> The Six voted in the third council to erect a monument to themselves. Six men in a heroic pose and a goat. The goat is the best likeness.
+
+<Hopkins, a Bond Broker> The Six personally guarantee every Aleforge Bond. If the debt matures and the mayor can't pay, they owe. I asked if they knew. They said yes. They said "about how much?" and laughed. I've sold my bonds.
+
+<Gethin, a Forest Trapper> The Six walked here from some other land on horses and donkeys. The route's called the Walk of Shame. The horses are long dead. The shame is not.
+
+<Hepzibah, a Mule Breeder> Shitty McFarts and Farty McShits are half brothers. They've refused to walk in the same direction since birth. The Six hitched them to one cart to teach them teamwork. The cart is still there.
+
+<Rollo> I asked Jameson to dinner. He sat. He ate. He walked out in the middle of the second course. I had a question about Guinnie I never got to ask. Honestly I'm not even mad. *lights a Newport*
+
+<Sexton Gobbler> Twenty-five percent. I used to take fifty. I'm not saying it's a conspiracy. I'm saying my accountant's stopped speaking to me.
+
+<Susan Plinket> I wish to correct the record. I am not Rollo's girlfriend. I am Rollo's "permanent" girlfriend. There is a difference in the legal text. I've had time to study it.
+
+<Mr. BBL> I audited the Aleforge ledger. It balances if you remove the Six. It does not balance if you add them. I submit this without comment.
+
+<Wagwan> Di Kings dem pay in wisdom an' wisdom nuh pay rent. Bomboclat. Mi still serve dem sushi though. Mi serve everybody sushi.
+
+<Old Salty> Them Bellows cunts is sendin' IPAs up the coast, and I swear on me dead mother's grave they taste like a wet dog's arsehole. Fuckin' fairy pirates of Aleforge'll be drinkin' it by Veilfrost, mark me bloody words.
+
+<Old Salty> Jameson fuckin' Pilsner hates IPAs on principle and I'll give the soft cunt that. Only decent thing he's ever said, and he said it face-down in a trough, which is the only way anyone should say anythin'.
+
+<Old Salty> Young captain came in the Tankard last night in a fuckin' perfumed scarf askin' for a "light cider with a twist." A TWIST! In a pirate's fuckin' mouth! Back in my day ye'd've been keelhauled, ye powdered fairy cunt. Now he's got two hundred crew and I've got a limp.
+
+<Old Salty> Six fuckin' kings built themselves a statue and put a goat in it. I've pissed on that statue every Hangover since. The goat's the only one I feel bad about.
+
+<Old Salty> Roto's flat fee went up and I'm told it's "for security." Security! A bunch o' cunts in tidy coats standin' on a dock sayin' "mind the gap." Back in my day we had cutlasses and the gap minded us.
+
+<Old Salty> Jack Anqoak's mercantile crew is all pretty lads with soft hands who've never taken a fuckin' ship. Calls it aggressive mercantilism. I call it fairy pirates in a tax shelter and I'd happily see the whole shitty lot sink.
+
+<Old Salty> Guinnie's all right for a Navy rat, I'll give him. Shoulda been a pirate. Instead the daft cunt went and became a King, which is worse, because at least a pirate has the decency to rob ye to yer fuckin' face.
+
+<Moira, a Gilded Tankard Barmaid> Gregor Ashford can't play the lute when he's drunk and can't stop playing when he's drunker. Last night he played the same four bars of something older than the building for an hour. The old drunks wept. I don't know why. I'd like to know why.
+
+<Hester, a Cheesemonger> My great-grandmother says Thatcher Sr. rebuilt Aleforge in the Long Thirst, carrying stones in the dark so nobody would see how tired he was. The Six have never carried a stone in their lives. They've carried a lot of kegs, though. Fair is fair.
+
+<Elias, a Dockside Chandler> "Thatcher's Last Toast" gets sung in every tavern at closing and every King stands for it. Even Jack. Even Pilsner, who's usually horizontal. They don't talk about it. They just stand.
+
+<Brig, a Lampreyman> Fentmaxxer's old well still has rope. Every Hangover somebody lowers a pint into it. Nobody's seen who. The rope's always wet.
+
+<Sibyl, a Chronicle Obituarist> I wrote John Cum's obituary. The Six wanted "tragic." I wrote "He grew wheat and sorrow and was good at both." They cut it. I keep the first draft in my pocket.
+
+<Ruaidhri, a Barley Merchant> Gideon Drake's subsidies fed the farms. Rump's let them lapse. Buke's A.L.E. fund saved three and ignored forty. Whichever story you want to tell about the Six, there's a barn to match it.
+
+<Odo, a Blodello Bridge Toll-Keeper> Blodello Bridge connects Shanty Town and Providence. Both sides think they own the toll booth. I've worked it twelve years and been paid by both and neither knows. Please don't tell them.
+
+<Tessa, a Mudlark> I found a little iron arrow point-down in the sand at the Gulf of Aleforge at low tide. A pirate's mark, my mother says, from Sackbeard's armada. Eleven captains, so eleven arrows. I've found three.
+
+<Rafe, a Wolendi Delivery Boy> Wolendi east wind is sold in pouches. A small one keeps a hearth warm. I once opened one in my room and woke up in a field. Don't open the pouch indoors.
+
+<Bartholomew, an Ale Taster> The Brewers Lane Millers did a barley wine at the Hall of Ale that made a man weep for his wife and then write to her. Three letters posted. All three answered. I've never seen a brew work so long.
+
+<Cuthbert, a Verger of the Church of the Monk> Friar Leo says nothing about the shrine under our church. We say nothing back. It's a polite arrangement. Last month I swept the narrow hall and found a mug of Aleforge ale on the floor, half drunk. Nobody admits to it.
+
+<Alma, a Providence Block Market Butcher> The Cardinal controls what may be made and sold in Providence. Last Cycle he banned suet. Suet. A butcher's mortal enemy. I asked why. A Friar said, "It makes them sleep." I'd like to meet the Apostle who's allowed to.
+
+<Kaspar, a Providence Guard> Sergeant Hark's been taking more notes than usual. Last week he had us memorize the faces of every Aleforge King. Not for arrest. "For recognition," he said. Then he asked if any of us could draw.
+
+<Nessa, a Lake Port Stevedore> The Roto ships come in laden with red-earth mineral and go out with brewing gear. Last month one came in laden with something that clinked and left light. We were told not to unload. The Cardinal's Friars stood at the gangplank for two days.
+
+<Tadhg, a Krappenschitz Gardener> David Krappenschitz is sober and rich and hates the Six. He still sent a barrel of the best vintage to the Tankard on Brewmasters Eve, unmarked. Never admitted it. Every pint drunk that night saves someone from the Realm of the Soulless. I'd like to think he knows.
+
+<Imogen, a Chronicle Reporter> Brewmasters Eve is the quietest night in Aleforge. Each pint drunk is believed to save one person from the Realm of the Soulless. Pilsner drank four hundred last year. Folk say he saved a whole town. Folk also say it's the only reason the Six haven't been dragged under themselves.
+
+<Lysander, a Cloudrunner Pilot> Pilsner once asked to captain the Mercury for an hour. We said no. He asked to scrub the deck. We said sure. He drank three barrels in the crow's nest. We've never had a smoother voyage.
+
+<Bede, a Lighthouse Customs Officer> Customs Control logs what comes in. Last season: ale beans from the south, unmarked crates from Roto, and a single child's shoe. Whoever's shoe it is, the paperwork's in order.
+
+<Vesper, a Cloister Gate Pilgrim> Richard "Cumhardy" Seaman was a jolly drunk who left notes of joy all over town. When Pilsner and Jack found what was left of him in the Cloister basement, they never said what it looked like. They brought back his notes instead and posted one a day. Folk say that's why the notes are still on the doors.
+
+<Cedric, an Observatory Guide> Fentmaxxer's observatory sits on Killdeath Peak, where the "asteroid" fell. Folk say it was an egg. The lens is gone but the dome's still pointed at the same patch of sky. Tourists ask what he was looking at. I say: us.
+
+<Blythe, an Edmond Blackmoor Admirer> I keep a shrine to Edmond Blackmoor in my cellar. He drank at the Tankard, murdered an old prophet in a rage, and died terrified in a hole. But he tried. The Six waltzed in with a god's luck and netherite. I'd rather be Blackmoor.
+
+<Rowan, a Chronicle Cartoonist> My best-selling drawing this year shows the Six as a six-legged goat. Pilsner's the leg that's kicking. Seamus is the leg asleep. Jagerbauhm is the one on fire. Buke is fishing. Anqoak is picking a pocket. Guinnie's pointing the wrong way.
+
+<Calloway, a Shorelan Ban Historian> The Shorelan ban on Clockheart Tonic lasted centuries. Seamus lifted it with one vote, under blackmail. Providence calls it a betrayal. Rump calls it a favor. A Friar I know says it was the first time Providence ever got what it wanted without having to ask.
+
+<Dolly Ferrier, a Fish Gutter> Wepple isn't developing a secret brew. He's developing a secret brewer. Why else does a gruff old man need a locked room with a cradle in it?
+
+<Hepburn, a Pipe-Fitter> I followed the Brewmaster's spring pipe under the square. It doesn't come from the earth. It comes from the bay, and it's stamped in the Cardinal's red.
+
+<Pandora, a Midden Woman> Mr. BBL is the Brewmaster Deity in a human suit. Why else would a man work that hard for that little and look that good doing it?
+
+<Barrow, a Goat Herder> Cumsock isn't one goat. It's six. They take turns so he can be seen in two places at once. Ask yourself why Aleforge needed a goat that could be everywhere.
+
+<Sable, a Tobacconist> Rollo is the real landlord of the Boner Bar. Every Newport sold in the Isles pays him a copper. That boy's richer than Anqoak and nobody knows because he sobs about money in public.
+
+<Cadoc, a Barge Hauler> Seamus's barrel has a false bottom. Under it is a staircase. Under that is where Roto keeps the collateral for the Aleforge Bonds. The mayor sleeps on it so nobody looks twice.
+
+<Phineas, a Clockmaker's Apprentice> Hunk the Monk is a clockwork man the Kalifarts built to guard the Cardinal. The "giant baby in a barrel" is a cover story. He runs on tonic. I've seen the keyhole behind his ear.
+
+<Lavinia, an Apostle Who Naps> The Cardinal's tower has a thirteenth floor. That's where the Apostles' sleep goes. They aren't sleepless. Their sleep is stored upstairs. Someone's selling it.
+
+<Brother Thorne, a Sexton> The tithe isn't half of earnings. It's half of dreams. Every soul in Providence owes the Cardinal one dream a Cycle. That's why we never rest. We're busy remembering what we've already paid.
+
+<Gilly, a Tavern Wench> Jameson Pilsner is the only sober Liquor King. Has been for years. The drunk act is for the Chronicle. The man's a mastermind.
+
+<Lenny, a Fishmonger's Apprentice> Buke wasn't alone in that whiskey barrel. There were two babies. One's the King. The other's a Roto merchant who doesn't know it. Same chin. Check the chin.
+
+<Ferdinand, a Frog Catcher> Guinnie's glowing green frog wasn't a frog. It was a soul. It gets passed around the Six like a pipe, Pilsner's pocket, Anqoak's jar. Whoever holds it, the frog picks their next death.
+
+<Marigold, a Roto Cook> Roto coopers are tampering with the Hall of Ale's new brews. That "pottage stout" was soup because someone swapped the mash.
+
+<Clement, an Actor> John Rump is two men. A Roto actor plays him at council. The real Rump's in the west field, still digging.
+
+<Ezekiel, a Library Cleaner> Josephus is the last councilman of the 33rd Council, four thousand years old and still shelving. He's been destroying the records because he's in them.
+
+<Griselda, a Brewers Guild Cook> The first Liquor King, Beef, was a cow. The Brewers' Guild covered it up because the cow won fair and square.
+
+<Hamond, a Shell Tavern Cook> Sackbeard never died. He's the cook at his own tavern. Nobody's seen the kitchen at night. The stew has no bottom.
+
+<Jessamy, a Wind Farmer's Hand> The Albatross doesn't run on wind. It runs on the screams of dead farmers, stored in barrels. Guster knows. Gale's afraid to ask.
+
+<Caspian, a Wolendi Smuggler> The Derechos are gnomes. Their cellar has a door to the Wildlands and a cage of sprites. Jopsi is their pet.
+
+<Orville, a Sky-Watcher> The Cloudrunners are circling above Aleforge on Brewmasters Day with enough black powder to flatten the Tankard. Their only demand is a better rate on dockage.
+
+<Dorcas, a Moth-Collector> The Hoegaarden Library is a mouth. It eats one book-lover each Cycle. Josephus feeds it.
+
+<Elmer, a Bone Collector> All four skeletons are one beast. Someone's moving the bones closer together every year. The shell on the Tavern is the fifth piece.
+
+<Gwendolen, a Shrine Pilgrim> Wear a full set of shrine armor and you turn into a Veilwalker. A girl in Name did it. She's now tall and see-through and won't pay rent.
+
+<Tarquin, a Dice-Maker> The Cloister's magic lights choose each Liquor King. The Trials are rigged by dice and the dice are rigged by the wall.
+
+<Lysbeth, a Memorial Gardener> New Haven is where Liquor Kings go when they die. That's why Pilsner keeps coming back so often. He's never quite left.
+
+<Cordelia, a Midwife> Children born in Veilfrost have no shadow. I've delivered five. All five stand in the light and the ground doesn't notice.
+
+<Bertram, a Sushi Wholesaler> Wagwan's sushi is the Tavern Beast's meat. Three hundred years in a freezer. That's why it never goes off. That's why it tastes slightly of the sea and slightly of regret.
+
+<Gertrude, a Lighthouse Keeper's Widow> Aleforge's lighthouse hasn't had a keeper in ten years. The light's lit by something that doesn't blink. It turns, though. Slowly. Toward the town.
+
+<Hector, a Compost Man> The Dread Marrows is just where the Bellows Nation dumps its unsold IPA. That's why nobody goes there. That's the dread.
+
+<Valentina, a Vodka Importer> Vodkonia's shaped like a bottle and it's vodka under the sand. Drake's been drinking the island since he arrived. In two Cycles there'll be a crater and a very happy man.
+
+<Digby, a Bridge Inspector> Blodello Bridge is alive. It lets people cross because it's polite. The day it stops being polite, ask a toll-keeper.
+
+<Ida, a Villager from Name> Nobody in Name has ever died. We checked the cemetery. We don't have one. That's the second life: the first one sticks.
+
+<Barnabas, a Brewers Lane Drunk> The Vanishing House parked on Brewers Lane last Brewsday. A man went in for a drink and hasn't come out. His wife says she can hear him laughing.
+
+<Zebediah, a Telescope Grinder> Fentmaxxer's Warden egg had a twin. The twin's not dead. It's cradled somewhere under Killdeath Peak, listening.
+
+<Delilah, a Palace Cook> Delaney Cum isn't dead. She's the Cardinal's cook. John Cum burned his fields for nothing. The soup is wonderful.
+
+<Ludovic, a Cigar-Roller> Pope's smoke is full of Veilwalker herbs. That's why he hasn't died. The doctors diagnosed him once. The diagnosis walked out.
+
+<Fitzgerald, a Gyntonick Sailor> Rum Anqoak is mayor of Gyntonick now and marching on Aleforge with a navy. He's bringing a carriage for his brother. Hasn't said whether it's a ride or an arrest.
+
+<Beau, a Naval Deserter> The Imperial Navy Commodore Jack robbed is in Roto right now. He's been seen in a copper scarf. Not the original. He had another made.
+
+<Hazel, a Tavern Gossip> It was JP who killed the Rotted Soul, with a bottle. Not a sword, a bottle. Check his pocket. It's still there.
+
+<Mortimer, a Portal Inspector> Jagerbauhm didn't close the portal. He sat on it. The artifacts were a distraction. Four hundred pounds of man on the doorway to hell.
+
+<Giles, a Cellar Rat-Catcher> The Rotted Soul's coffin was moved from under the library to under the Tankard the night the Six came back. Why else would the ale taste so good?
+
+<Evangeline, a Veil Scholar> Veilrunners are just Veilwalkers who stopped paying their dues. The Elders keep a registry. It's a very strict registry.
+
+<Humbert, a Cumstead Farmhand> The wheat above Dimitri's grave grows in the shape of stars. Nobody planted it that way.
+
+<Lazarus, a Grave Warden> Thatcher's ghost drinks at the Tankard on Hangover nights. He tips well. Nobody's seen him pay.
+
+<Odalia, a Hat Seller> The Cardinal's been dead six years and the voice from the spire is a speaking tube the Kalifarts built. Ask yourself why he never appears in daylight.
+
+<Rupert, a Dice Gambler> Seamus bet the Mayor's chain on a dice game with Roto last Brewsday and lost it. The chain round his neck is a replica made by a goldsmith named Trick.
+
+<Wilfrid, a Cartographer's Clerk> Every map of West Pint comes out blank because the ink won't take. I've tried eleven inks. The twelfth, my own blood, took. That's all I'll say about the twelfth.
+
+<Saoirse, a Name Cook> The Pour Eternal's already been poured. It's in the Gilded Tankard's spring. That's why Aleforge ale is blessed. The Founders hid it in plain sight and the Six don't know.
+
+<Alistair, a Drunk Philosopher> The Six don't exist. They're a story the Isles tell to feel less alone. The monument is six stone men and a goat, and the goat's the only real one.
+
+<Philippa, a Pastry Chef> Hunk the Monk and Mr. BBL are brothers separated at birth. The cheekbones. The dignity. The build.
